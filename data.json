@@ -1,0 +1,31 @@
+[
+    {
+        "nombre": "Mariano",
+        "edad": 20,
+        "curso": "JS"
+    },
+
+    {
+        "nombre": "Hernan",
+        "edad": 26,
+        "curso": "Historia"
+    },
+
+    {
+        "nombre": "Agustin",
+        "edad": 20,
+        "curso": "JS"
+    },
+
+    {
+        "nombre": "Manolo",
+        "edad": 25,
+        "curso": "Literatura"
+    },
+
+    {
+        "nombre": "Milton",
+        "edad": 30,
+        "curso": "Historia"
+    }
+]
